@@ -1,6 +1,7 @@
-# *Your Project Description*
-## *Sponsoring Company or Organization*
-## *Short Project Description*
+# *Gamification of Extracurricular Participation in CS*
+## *VCU College of Engineering*
+## *Student retention and community building is an ongoing endeavor in any major. Students in their earlier years can have trouble forming communities that can aid with their future involvement in Computer Science. How can we get these students more engaged? Gamification is a potential answer. Gamification has been known to increase user engagement. Can such gamification be used to create closer knit communities in Computer Science undergraduate studies? Will it have a significant impact on student learning and retention in the CS Program?
+
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
 follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
