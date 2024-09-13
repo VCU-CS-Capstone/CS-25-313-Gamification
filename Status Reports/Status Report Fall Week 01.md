@@ -1,4 +1,4 @@
-# *CS 25-XXX Project Name*
+# *CS 25-313 Gamification of Extracurricular Participation in CS*
 
 **Students' Names:**
 
