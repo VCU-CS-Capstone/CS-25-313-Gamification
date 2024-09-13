@@ -1,21 +1,22 @@
 # *CS 25-313 Gamification of Extracurricular Participation in CS*
 
-**Students' Names:**
+**Students' Names: Chase Taylor, Jason Black, Tayah Mezick, Vy Luu**
 
-**Mentor:**
+**Mentor: Luke Gusukuma**
 
-**Faculty Advisor:**
+**Faculty Advisor: Luke Gusukuma**
 
 ## 1) Accomplishments this week ##
-   - investigate databases done by student A
-   - make flowcharts done by students A and B
+   - Researched Contextual Analysis 
 
 ## 2) Milestones to be completed next week ##
-   - debug the code to be performed by student C
+   - Execute Survey
+   - Create a solid idea on IF gamification really is the answer to increasing participation 
 
 ## 3) Issues, problems or concerns ##
-   - student C needs to learn java
-   - database repository costs big $$$
+   - Not coding heavy
+   - More of a research based outcome rather than a product
+   - Will the mock product be beneficial to participation
    
 
 
