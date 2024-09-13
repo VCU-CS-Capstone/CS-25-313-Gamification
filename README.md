@@ -20,7 +20,7 @@ a better understanding of the problems you encountered during the development of
 ## Project Team
 - *Luke Gusukuma*  - *VCU College of Engineering* - Mentor
 - *Luke Gusukuma*  - *VCU College of Engineering* - Faculty Advisor
-- *Jason Black* - *Computer Science* - Student Team Member
-- *Tayah Mezick* - *Computer Science* - Student Team Member
-- *Chase Taylor* - *Computer Science* - Student Team Member
-- *Vy Luu* - *Computer Science* - Student Team Member
+- *Jason Black* - *Computer Science* - Logistics
+- *Tayah Mezick* - *Computer Science* - Financial Manager
+- *Chase Taylor* - *Computer Science* - Testing Engineer
+- *Vy Luu* - *Computer Science* - Project Manager
