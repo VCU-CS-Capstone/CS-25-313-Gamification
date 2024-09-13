@@ -17,8 +17,8 @@ a better understanding of the problems you encountered during the development of
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
-- *Luke Gusukuma *  - *VCU College of Engineering* - Mentor
-- *Luke Gusukuma *  - *VCU College of Engineering* - Faculty Advisor
+- *Luke Gusukuma*  - *VCU College of Engineering* - Mentor
+- *Luke Gusukuma*  - *VCU College of Engineering* - Faculty Advisor
 - *Jason Black* - *Computer Science* - Student Team Member
 - *Tayah Mezick* - *Computer Science* - Student Team Member
 - *Chase Taylor* - *Computer Science* - Student Team Member
