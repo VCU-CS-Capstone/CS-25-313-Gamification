@@ -14,7 +14,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 1 Status Report |Met with Group Members | Establish connection, created discord group, reached out the advisor | No problems to report! |
 | Week 2 Status Report | Met with Advisor | Discussed potential research methods, created realistic expectations on what could a potential answer be, reviewed Contexual Inquiry/Analysis | No problems to report! |
 | Week 3 Status Report | Researched Contextual analysis from Prof.Gusukuma, Discussed how to execute research/gather data. | Who/what/how to survey people to gather data, questionares/questions to ask. | No problems to report! |
-| Week 4 Status Report | Reviewed Contextual Inquiry, Established a baseline of what is required within our System concept statement | Create survey questions, created our focus group on who/when, reached out to potential stakeholders | No problems to report! |
+| Week 4 Status Report | Reviewed Contextual Inquiry, Established a baseline of what is required within our System concept statement | Create survey questions, created our focus group on who/when, reached out to potential stakeholders | Accessing funds, reaching out and setting up interviews |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
