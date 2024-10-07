@@ -1,4 +1,4 @@
-# *CS 25-XXX Gamification of Extracurricular Participation in CS*
+# *CS 25-313 Gamification of Extracurricular Participation in CS*
 
 **Students' Names: Chase Taylor, Jason Black, Tayah Mezick, Vy Luu**
 
