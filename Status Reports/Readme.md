@@ -17,7 +17,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 4 Status Report | Reviewed Contextual Inquiry, Established a baseline of what is required within our System concept statement | Create survey questions, created our focus group on who/when, reached out to potential stakeholders | Accessing funds, reaching out and setting up interviews |
 | Week 5 Status Report | Started Interviewing, Created an outline, researched Analysis methods | Collected Data| Reaching out to stakeholders, Undefined wants |
 | Week 6 Status Report | Gather more data, Analyze data to create main project statement | Interviewed Stakeholders for current situation | Not enough participants, creating a current project statement |
-| Week 7 Status Report | | | |
+| Week 7 Status Report | Gather more data, Analyze data to create main project statement | Interviewed Stakeholders for current situation | Analyzing Data and outlining potential storyboard designs for future design |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
