@@ -24,8 +24,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
+| Week 14 Status Report | Complete Affinity Diagram & edit poster| Finish Design Poster| none |
+| Week 15 Status Report | Submit poster | Present Design Poster| none |
 | Week 16 Status Report | | | |
 
 ## Spring Semester
@@ -33,9 +33,9 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
 | Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
-| Week 4 Status Report | | | |
+| Week 2 Status Report | Revise Team Contract | n/a | n/a |
+| Week 3 Status Report | Create Work Flow / Work Roles | Submit Spring Team Contract | n/a |
+| Week 4 Status Report | Prototype Design Informing Model | n/a | n/a |
 | Week 5 Status Report |Review data collected | Establish Work Roles & Work Flow of current situation | Undefined wants, Prototype Design Informing Model |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
