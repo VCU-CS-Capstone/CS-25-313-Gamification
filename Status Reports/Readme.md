@@ -36,7 +36,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 2 Status Report | | | |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
-| Week 5 Status Report | | | |
+| Week 5 Status Report |Review data collected | Establish Work Roles & Work Flow of current situation | Undefined wants, Prototype Design Informing Model |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
 | Week 8 Status Report | | | |
